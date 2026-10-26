@@ -168,3 +168,4 @@
 
 </body>
 </html>
+"Added header styling and journal container"
